@@ -1,2 +1,2 @@
 # AboutMe
-Here is the portfolio to showcase my expertise, skill sets, and examples of past projects.
+Here is a portfolio to showcase my professional expertise, skill sets, and examples of past projects.
